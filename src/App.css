@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.user-name {
+  color: black;
+  text-transform: capitalize;
+  font-style: italic;
+  font-weight: 700;
+}
+.user h1 {
+  font-weight: 200;
+}
+.user-img img {
+  border-radius: 50%;
+  object-fit: cover;
+}
